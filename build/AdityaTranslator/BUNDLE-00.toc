@@ -1,0 +1,3 @@
+([('AdityaTranslator',
+   '/Users/adityapundir/TranslatorApp/dist/AdityaTranslator',
+   'EXECUTABLE')],)
